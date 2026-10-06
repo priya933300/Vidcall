@@ -1,0 +1,6 @@
+{
+  "name": "TalkConnect - WhatsApp Calling & Chat",
+  "description": "WhatsApp-style voice and video calling, messaging, photo gallery, credit wallet, UPI recharge and 4-tier role management.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
